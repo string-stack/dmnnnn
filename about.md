@@ -151,6 +151,15 @@ These were targeted contributions to strengthen an LFX Mentorship Term 2 applica
 - **LibreHealthIO/lh-toolkit** — README expansion PR (closed upstream, merged in fork)
 - **OpenMRS** — Filed issue #1052 on mobile responsive UI in esm-form-builder
 - **ghostmkg/Learning-Stories-Repository** — Hacktoberfest 2025 accepted PR (#274)
+- **containerd/containerd** — #13576: Content store and mount management fix (open)
+- **deepchem/deepchem** — #5031: Documentation fix (open)
+- **Dreamstick9/filedrop** — Multiple PRs (#99, #101, #102, #105) for file sharing improvements (closed)
+- **hugegraph/hugegraph** — #167: Helm chart deployment work (open)
+- **NousResearch/hermes-agent** — #44751: Agent skill contribution (open)
+- **SakanaAI/LanguageEvolution** — #6: Language model contribution (open)
+- **sugarlabs/musicblocks-v4** — #543, #544: UI and documentation fixes (closed/open)
+- **sustainable-computing-io/kepler** — #2489: NVML init container for NVIDIA GPU Operator support (open)
+- **warpdotdev/warp** — #12951: Terminal configuration fix (closed)
 
 ---
 
